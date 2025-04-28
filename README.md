@@ -22,7 +22,7 @@
 
 ## 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[ankitis32]&show_icons=true&theme=radical" alt="[Your Name]'s GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ankitis32&show_icons=true&theme=radical" alt="[Your Name]'s GitHub Stats" />
 </p>
 
 ---
