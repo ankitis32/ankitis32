@@ -1,4 +1,47 @@
+# Hi there 👋, I'm Ankit!
+
+🎯 I am a Data Scientist and AI/ML Engineer passionate about solving real-world problems using Machine Learning, Data Science, and AI.
+
+- 🔭 Currently working on: Titanic Survival Prediction ML Model
+- 🌱 Learning: Machine Learning | Deep Learning | Data Engineering
+- 👯 Open to collaborate on: AI/ML Projects, Open Source, Startups
+- 🤔 Exploring: NLP (Natural Language Processing) and Computer Vision
+- 💬 Ask me about: Python, Machine Learning, SQL, Data Analysis
+- 📫 How to reach me: [Email] | [LinkedIn Profile Link]
+- ⚡ Fun fact: I believe in "Building daily = Improving daily!"
+
+---
+
+## 🛠️ Tech Stack
+- Languages: Python, SQL, Bash
+- Machine Learning: Scikit-Learn, TensorFlow, Pandas, Numpy
+- Visualization: Matplotlib, Seaborn, Plotly
+- Tools: GitHub, VS Code, Jupyter Notebook, Streamlit
+
+---
+
+## 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=[ankitis32]&show_icons=true&theme=radical" alt="[Your Name]'s GitHub Stats" />
+</p>
+
+---
+
+## 🚀 Recent Projects
+- [🛳️ Titanic Survival Prediction] — Built a machine learning model to predict survival of Titanic passengers.
+- [🏡 House Price Prediction] — Regression model to predict housing prices with feature engineering.
+- [🔥 Customer Churn Prediction] — Classification model for predicting customer retention.
+
+
+---
+
+## 📫 Let's Connect!
+- [LinkedIn]
+- [GitHub]
+
+<!--
 ## Hi there 👋
+-->
 
 <!--
 **ankitis32/ankitis32** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
