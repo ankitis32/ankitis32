@@ -1,8 +1,8 @@
 # Hi there 👋, I'm Ankit!
 
-🎯 I am a Data Scientist and AI/ML Engineer passionate about solving real-world problems using Machine Learning, Data Science, and AI.
+🎯 I am a **Data Scientist** and **AI/ML Engineer** passionate about solving real-world problems using **Machine Learning**, **Data Science**, and **AI**.
 
-- 🔭 Currently working on: Titanic Survival Prediction ML Model
+- 🔭 Currently working as a **Specialist - Data Foundations & Analytics**
 - 🌱 Learning: Machine Learning | Deep Learning | Data Engineering
 - 👯 Open to collaborate on: AI/ML Projects, Open Source, Startups
 - 🤔 Exploring: NLP (Natural Language Processing) and Computer Vision
@@ -14,7 +14,7 @@
 
 ## 🛠️ Tech Stack
 - Languages: Python, SQL, Bash
-- Machine Learning: Scikit-Learn, TensorFlow, Pandas, Numpy
+- Machine Learning: Scikit-Learn, TensorFlow, Pandas, Numpy, PyTorch, Keras
 - Visualization: Matplotlib, Seaborn, Plotly
 - Tools: GitHub, VS Code, Jupyter Notebook, Streamlit
 
@@ -29,7 +29,7 @@
 
 ## 🚀 Recent Projects
 - [🛳️ Titanic Survival Prediction] — Built a machine learning model to predict survival of Titanic passengers.
-- [🏡 House Price Prediction] — Regression model to predict housing prices with feature engineering.
+- [🏡 Credit Card Fraud Detection] — XGBoost model to predict/detect Credit Card Fraud.
 - [🔥 Customer Churn Prediction] — Classification model for predicting customer retention.
 
 
