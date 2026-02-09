@@ -50,5 +50,5 @@ I’ve led and delivered production systems for government and enterprise client
 ---
 
 ## 📫 Connect
-- LinkedIn: [link]
+- LinkedIn: www.linkedin.com/in/at32
 - Email: ankitis32@gmail.com
