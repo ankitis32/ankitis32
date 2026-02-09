@@ -1,38 +1,54 @@
-# Hi there 👋, I'm Ankit!
+Hi 👋 I'm Ankit Tiwari
 
-🎯 I am a **Data Scientist** and **AI/ML Engineer** passionate about solving real-world problems using **Machine Learning**, **Data Science**, and **AI**.
-- 🔭 Currently working as a **Specialist - Data Foundations & Analytics**
-- 🌱 Learning: Machine Learning | Deep Learning | Data Engineering
-- 👯 Open to collaborate on: AI/ML Projects, Open Source, Startups
-- 🤔 Exploring: NLP (Natural Language Processing) and Computer Vision
-- 💬 Ask me about: Python, Machine Learning, SQL, Data Analysis
-- 📫 How to reach me: [Email] | [LinkedIn Profile Link]
-- ⚡ Fun fact: I believe in "Building daily = Improving daily!"
+Principal AI & Full-Stack Engineer focused on building AI-native systems, private LLM platforms, and production-grade data products.
+I specialize in turning ambiguous business problems into shipped software — from LLM-backed APIs and RAG pipelines to user-facing web apps.
 
 ---
 
-## 🛠️ Tech Stack
-- Languages: Python, SQL, Bash
-- Machine Learning: Scikit-Learn, TensorFlow, Pandas, Numpy, PyTorch, Keras
-- Visualization: Matplotlib, Seaborn, Plotly
-- Tools: GitHub, VS Code, Jupyter Notebook, Streamlit
+## 🚀 What I Build
+
+- **AI-native platforms**: Private LLMs, RAG pipelines, agentic workflows
+- **Backend systems**: Python, async APIs, data pipelines, orchestration
+- **Full-stack apps**: Streamlit / Gradio / React-based analytics tools
+- **Enterprise data systems**: SQL, Snowflake, governance-aware architectures
+
+I’ve led and delivered production systems for government and enterprise clients in high-stakes environments.
 
 ---
 
-## 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ankitis32&show_icons=true&theme=radical" alt="[Your Name]'s GitHub Stats" />
-</p>
+## 🧠 Core Skills
+
+**Backend & AI**
+- Python (advanced), LLM APIs, RAG, vector search
+- Async data processing, automation, system design
+
+**Data & Storage**
+- SQL (Postgres / SQL Server / Snowflake)
+- Schema design, query optimization, ETL/ELT
+
+**Frontend & Apps**
+- Streamlit, Gradio
+- React-based analytics integrations
+
+**Infra & Governance**
+- Secure multi-user apps
+- Role-based access, AI governance, ROI-driven design
 
 ---
 
-## 🚀 Recent Projects
-- 🛳️ **Titanic Survival Prediction** — Built a machine learning model to predict survival of Titanic passengers.
-- 🏡 **Credit Card Fraud Detection** — XGBoost model to predict/detect Credit Card Fraud.
-- 🔥 **Customer Churn Prediction** — Classification model for predicting customer retention.
+## 📌 Selected Work (Curated)
+
+> Note: Many enterprise projects are private. Public repos here focus on architecture patterns and applied AI.
+
+- 🔹 **LLM Document Intelligence (RAG)**  
+  Private LLM + retrieval pipeline for enterprise document automation  
+- 🔹 **AI-powered Analytics App**  
+  Streamlit-based system with role-based access and real-time insights  
+- 🔹 **Data Migration Framework**  
+  Python + SQL system reducing multi-week migrations to 48 hours  
 
 ---
 
-## 📫 Let's Connect!
-- [LinkedIn]
-- [GitHub]
+## 📫 Connect
+- LinkedIn: [link]
+- Email: ankitis32@gmail.com
